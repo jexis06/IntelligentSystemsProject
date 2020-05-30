@@ -5,3 +5,6 @@ Main proponent: Jomari Joseph A. Barrera
 Supporting proponent/s: Jonah Flor V. Oraño  
 Project start date: August 2017  
 
+Intelligent system architectures:  
+1. Neural Networks  
+   a. Feed Forward Neural Network  
